@@ -11,7 +11,7 @@ def main():
     # Both loc and iloc are row-first, column-second. This is the opposite of what we do in native Python, which is column-first, row-second
     print(df['Bob'][0])
     print(df.iloc[1][0])
-    print(df.iloc[:, 0])
+
 
 
 if __name__ == '__main__':
