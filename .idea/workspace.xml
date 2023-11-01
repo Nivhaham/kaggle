@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0197d18c-93b9-46d8-ad2f-be3ac3528622" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/basics.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pandas/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

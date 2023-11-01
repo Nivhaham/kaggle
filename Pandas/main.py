@@ -18,5 +18,7 @@ def main():
     ramen_df_sorted_by_brand_name.sort_values(by=['Brand'], ascending=True)
     print(ramen_df_sorted_by_brand_name)
 
+    print(ramen_df.Country.dtype)
+
 if __name__ == '__main__':
     main()
